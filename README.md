@@ -1,6 +1,6 @@
 # demo
 
-This is my firat repo. I am learning it!
+This is my first repo. I am learning it!
 
 ## Subheader 
 
